@@ -1,0 +1,1 @@
+console.log("Esto se esta visualizando en la consola de HTML");
